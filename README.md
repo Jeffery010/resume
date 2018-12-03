@@ -1,4 +1,3 @@
-## resume of LeiZhefu
 
 ![ppt1](./ppt/ppt_1.png)
 ------
